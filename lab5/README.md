@@ -1,4 +1,4 @@
-# lab 5 - MacOS version
+# Lab 5 
 
 These commands assume the five project files (`app.py`, `requirements.txt`, `Dockerfile`, `apply_apparmor.py`, and `test_restricted_actions.py`) have already been created in `~/docker-apparmor-lab`.
 
