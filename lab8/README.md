@@ -2,7 +2,7 @@
 ## 1. Create a GitHub repository
 Name it `devops-sample-code`, set it to **Public**, and create it.
 
-## 2. Create the shell script on macOS
+## 2. Create the shell script
 In Terminal:
 
 ```bash

@@ -60,9 +60,8 @@ kubectl get services
 
 Expected ready replica counts are `2/2` for `product-catalog` and `3/3` for `shopping-cart`. The `NODE` column shows which cluster node hosts each pod.
 
-## 4. Access the services on macOS
-Open a separate Terminal window for each service and leave the command running while testing. With Minikube’s Docker driver on macOS, `minikube service` may create a local tunnel and print a `127.0.0.1` URL.
-
+## 4. Access the services
+Open a separate Terminal window for each service and leave the command running while testing.
 Terminal 1:
 
 ```bash
